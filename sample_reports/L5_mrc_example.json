@@ -1,0 +1,47 @@
+{
+  "report_type": "L5_Meta_Reflective_Cohesion_Report",
+  "version": "L5.v1.0",
+  "description": "Example L5 Meta-Reflective Cohesion (MRC) report demonstrating cross-layer alignment, rupture detection, and repair strategy generation.",
+
+  "cohesion_score": 0.7600,
+
+  "s_r_psi_alignment": {
+    "S": 0.7000,
+    "R": 0.6500,
+    "Psi": 0.7800
+  },
+
+  "narrative_geometry_alignment": 0.7200,
+  "evaluation_feedback_alignment": 0.8000,
+
+  "rupture_points": [],
+
+  "cohesion_deltas": [],
+
+  "unified_explanation": [
+    "[L5 Meta-Reflection] Cohesion Score: 76.00%",
+    "",
+    "S-R-Psi Alignment:",
+    "  - S: 70.00% (MODERATE)",
+    "  - R: 65.00% (MODERATE)",
+    "  - Psi: 78.00% (STRONG)",
+    "",
+    "Cross-Layer Alignment:",
+    "  - Narrative-Geometry: 72.00%",
+    "  - Evaluation-Feedback: 80.00%",
+    "",
+    "Ruptures Detected: 0",
+    "Repair Strategies: 0"
+  ],
+
+  "interpretation": {
+    "cohesion_meaning": "Overall system cohesion is strong at 76%. All layers are working together effectively.",
+    "alignment_meaning": "S-R-Psi alignment shows moderate structural (S) and rhythmic (R) alignment with strong intent (Psi) alignment.",
+    "no_ruptures": "No coherence ruptures detected. The system's reasoning is internally consistent.",
+    "repair_status": "No repair strategies needed. System is in healthy state."
+  },
+
+  "tick": 0,
+  "timestamp": "2026-02-15T00:00:00Z",
+  "report_id": "mrc-demo-01"
+}

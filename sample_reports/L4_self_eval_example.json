@@ -1,0 +1,44 @@
+{
+  "report_type": "L4_Self_Evaluation_Report",
+  "version": "1.0",
+  "description": "Example L4 Self-Evaluation Kernel (SEK) report demonstrating structural coherence, rhythmic stability, and phase alignment metrics.",
+
+  "C_s": 0.8200,
+  "R_s": 0.7500,
+  "Psi_s": 0.7100,
+  "status": "stable",
+
+  "diagnostics": {
+    "C_s_components": {
+      "concept_consistency": 0.8500,
+      "narrative_alignment": 0.8000,
+      "causal_consistency": 0.8000
+    },
+    "R_s_components": {
+      "entropy_trend": 0.7800,
+      "omega_stability": 0.7000,
+      "rhythm_continuity": 0.7700
+    },
+    "Psi_s_components": {
+      "phase_similarity": 0.7200,
+      "phase_transition_score": 0.7500,
+      "geometry_alignment": 0.6600
+    },
+    "history_length": 1
+  },
+
+  "suggestions": [
+    "Monitor rhythmic patterns for potential instability",
+    "Consider geometry re-alignment for improved phase matching"
+  ],
+
+  "interpretation": {
+    "C_s_meaning": "Structural coherence is strong. Concept mapping is consistent and narrative aligns well with causal chain.",
+    "R_s_meaning": "Rhythmic stability is good. Entropy trend is positive with moderate omega stability.",
+    "Psi_s_meaning": "Phase alignment is acceptable but has room for improvement. Geometry alignment is slightly lagging.",
+    "status_meaning": "System is stable but not yet in 'improving' state (requires all metrics > 0.75)"
+  },
+
+  "timestamp": "2026-02-15T00:00:00Z",
+  "evaluation_id": "sek-demo-01"
+}
